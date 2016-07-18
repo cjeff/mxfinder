@@ -1,0 +1,16 @@
+{
+  "name": "mxfinder",
+  "version": "1.0.0",
+  "description": "do mxlookups across a csv",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.0",
+    "babyparse": "^0.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
