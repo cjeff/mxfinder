@@ -1,4 +1,4 @@
- #Spreadsheet MX check
+ # Spreadsheet MX check
 
  This runs through a directory of MAX Mail detailed invoices in csv form, does an MX lookup on each domain (column "domain Name" in spreadsheet)
  and then exports the new spreadsheets to an output directory. The new spreadsheets will have a column "isMaxUser" added.
